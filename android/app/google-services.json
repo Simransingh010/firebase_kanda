@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276822094809",
+    "project_id": "fir-kanda",
+    "storage_bucket": "fir-kanda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276822094809:android:b5a4240aa0c9b513069fc8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_kanda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHNBfjnHXF8mcpRL4xrKGAiXSBUXDf8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
